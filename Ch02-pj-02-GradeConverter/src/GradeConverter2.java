@@ -10,7 +10,7 @@ public class GradeConverter2 {
 		String lGrade=" "; 
 		String choice = "y";
 		
-	 While (choice.equalsIgnoreCase("y")); {
+		 while (choice.equalsIgnoreCase("y")) {
 	System.out.println("Enter Numeric Grade:");
 	int nGrade=sc.nextInt(); //enter numeric grade from user
 	
@@ -36,10 +36,5 @@ public class GradeConverter2 {
 	}
 	 System.out.println("Thank you for checking out our App!");
 		sc.close();
-	}
-
-	private static void While(boolean equalsIgnoreCase) {
-		// TODO Auto-generated method stub
-		
 	}
 }
