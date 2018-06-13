@@ -42,7 +42,6 @@ public class GradeConverter {
 		
 	System.out.println("Bye!");	
 	sc.close();
-		
 	
 	}
 
