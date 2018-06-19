@@ -9,7 +9,7 @@ public class SwitchBreakStament {
 		  case "full":
 		  System.out.println("Howl!");
 		    break;
-		  case "ostly full":
+		  case "mostly full":
 			  System.out.println("Arms and legs are getting hairier");
 		    break;
 		  case "mostly new":
