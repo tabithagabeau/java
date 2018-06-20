@@ -18,17 +18,16 @@ public class TernaryOperator {
 		//3rd way
 		String favoritePhrase = "Love That!";{
 		
-		
 		System.out.println(favoritePhrase == "Love That!"? "I love that!" : "I don't love that!");
 				
 		}
-		
+		//4th way
 		boolean hamlet;
 		bark( hamlet = true); {
 			System.out.println (hamlet ? "To Bark!" : "Not to Bark");
 			//System.out.println(result);
 		}
-		//there are many ways to do ternary operator 
+		//5th way
 		bark (hamlet = false);{
 			if (hamlet)	{
 				System.out.println("To Bark.");

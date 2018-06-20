@@ -1,15 +1,15 @@
-import java.sql.Array;
 
-public class FizzBuzz {
+public class FizzBuzzMultiplesOf3and5 {
 
-	 static String[] findNumber( int n) {
+	 static String findNumber( int n) {
 		    
-		 String[] arr;
-		 String[] resp;
-		 String[] Fizz;
-		 String[] Buzz;
-		 String[] FizzBuzz;
-
+		 String[] arr = new String [n];
+		 String resp = "";
+		 String Fizz = "";
+		 String Buzz = "";
+		 String FizzBuzz = "";
+		 n=5;
+		 
 		 for (int i=0; i<arr.length; i++){	
 			 resp=arr[i];
 
