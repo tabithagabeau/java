@@ -26,11 +26,8 @@ public class AreaRectangle2 {
 		
 		System.out.println("contininue? (y/n): ");
 		choice=sc.next();
-	}
-	
+		}
 	sc.close();
-	System.out.println("Bye!");
-	
 	}
-
 }
+	

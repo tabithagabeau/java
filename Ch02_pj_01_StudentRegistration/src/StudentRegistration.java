@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class StudentRegistration {
 
 		public static void main(String[] args) {
+			
 			System.out.println("Welcome to Student Registration App!");
 			System.out.println();
 			
@@ -22,7 +23,7 @@ public class StudentRegistration {
 			System.out.println("Welcome: " + fName+ " "+ lName +" "+"!" +"\n");
 			System.out.println("Your temporary password is: " +fName+"*"+bYear);
 			System.out.println();
-			
+	
 			sc.close();
 	}
 
