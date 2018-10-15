@@ -8,9 +8,8 @@ public class PrintAnAverageOfArrayOfPrices {
 		for (int i=0; i<prices.length; i++) {
 			
 			int n=prices.length;
-			double sum =0.0;
-			sum = prices[i]++;
-			
+			double sum = 0.0;
+			sum =prices[i]++;
 			double av= sum/n;
 			// modulus % gives the remainder; while / divides
 			System.out.println(av);

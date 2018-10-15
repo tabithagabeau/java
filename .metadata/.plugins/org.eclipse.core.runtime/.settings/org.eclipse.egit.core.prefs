@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\repos\\java\\.git;C\:\\repos\\PRSWeb\\.git;C\:\\repos\\java\\Ch03-ex1\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;C\:\\repos\\PRSWeb\\.git;Ch03-ex1\\.git;
+GitRepositoriesView.GitDirectories=C\:\\REPOS\\java\\.git;C\:\\repos\\PRSWeb\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\repos\\PRSWeb\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
