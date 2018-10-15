@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=C\:\\REPOS\\java\\.git;C\:\\repos\\PRSWeb\\.git;
 GitRepositoriesView.GitDirectories.relative=.git;C\:\\repos\\PRSWeb\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
+=======
+GitRepositoriesView.GitDirectories=/Users/tabithauwimpuhwe/Documents/Repos/java/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
+>>>>>>> 20a755ef4778dc3a6796c089238ec3a41b52f9f8
