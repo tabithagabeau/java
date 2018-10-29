@@ -19,7 +19,7 @@ public class Sheep extends Animal implements Cloneable {
 		return count + " "+ name;
 	}
 	
-	//implement the clonable interface see pg 317
+	//implement the cloneable interface see pg 317
 	@Override
 	public Object clone () throws CloneNotSupportedException {
 		return super.clone();
